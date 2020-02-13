@@ -1,0 +1,19 @@
+messages:
+  player-only: "&7* プレイヤーしか実行できません。"
+  invalid-argument: "&7* その引数は存在しません。"
+
+  need-sign-to-lock: "&7* 署名されていないアイテムは署名禁止にはできません。"
+  already-locked: "&7* 既に署名禁止です。/sign unlockで解除できます。"
+  not-locked: "&7* 署名禁止になっていません。/sign lockで署名禁止にできます。"
+  locked-item: "&7* アイテムを署名禁止にしました。署名済みの人のみ/sign unlockで署名可能にできます。"
+  unlocked-item: "&7* アイテムを署名可能にしました。"
+
+  item-is-locked: "&7* そのアイテムへの署名は禁止されています。署名済みの人に/sign unlockしてもらいましょう。"
+  not-enough-money: "&7* お金が足りません。"
+  air-cannot-have-lore: "&7* 手にアイテムを持ってください。"
+  cannot-sign-twice: "&7* 同じ人が二回以上署名することはできません"
+  success: "&7* &b%price% &7円でアイテムに署名しました。"
+
+format: "&6%player_name% &7の所有物"
+
+price-per-one: 100
